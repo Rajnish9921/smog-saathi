@@ -2,7 +2,7 @@
 
 A GenAI-powered assistant that helps families and communities navigate severe winter smog and urban air pollution. It turns today's AQI plus a family's real situation (city, commute, cooking, heating, who is vulnerable) into a personal plan and explains the **direct impact** of every choice.
 
-**Live demo:** https://YOUR-USERNAME.github.io/smog-saathi/  ·  **Self-tests:** add `#test` to the URL
+**Live demo:** https://Rajnish9921.github.io/smog-saathi/  ·  **Self-tests:** add `#test` to the URL
 
 ## Problem statement → feature map
 | Requirement | How it is met |
